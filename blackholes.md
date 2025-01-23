@@ -10,7 +10,7 @@
 > 
 > $$\mathrm{Ric}(g) = 0,$$
 > 
-> the celebrated _Schwarzschild_ and _Kerr_ solutions, indeed contain non-empty black ole regions $\mathcal{B} \neq \emptyset$.
+> the celebrated _Schwarzschild_ and _Kerr_ solutions, indeed contain non-empty black hole regions $\mathcal{B} \neq \emptyset$.
 > 
 > — Mihalis Dafermos, The mathematical analysis of black holes in general relativity (in [Proceeding of the International Congress of Mathematicans, ICM 2014
 ](https://www.semanticscholar.org/paper/The-mathematical-analysis-of-black-holes-in-general-Dafermos/c0772ee6ff52c5138307c0a38c9e83dfb6523a07?utm_source=direct_link)).
