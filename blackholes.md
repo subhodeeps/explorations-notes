@@ -2,12 +2,12 @@
 > 
 > The notion as such is simpler than the mystique surrounding it may suggest! Loosely speaking, the black hole region $\mathcal{B}$ of a Lorentzian 4-manifold $(\mathcal{M}, g)$ is the complement of the causal past of a certain distinguished ideal boundary at infinity, denoted $\mathcal{I}^+$ and known as _future null infinity_; in symbols
 > 
-> $$ \mathcal{B} = \mathcal{M} \backslash J^{−} (\mathcal{I}^ + ).$$
+> $$\mathcal{B} = \mathcal{M} \backslash J^{−} (\mathcal{I}^ + ).$$
 > 
-> In the context of general relativity, where our physical spacetime continuum is modelled by such a manifold \mathcal{M}, this ideal boundary at infinity $\mathcal{I}^+$ corresponds to “far-away” observers in the radiation zone of an isolated self-gravitating system such as a collapsing star. Thus, the black hole region $\mathcal{B}$ is the set of those spacetime events which cannot send signals to distant observers like us.
+> In the context of general relativity, where our physical spacetime continuum is modelled by such a manifold $\mathcal{M}$, this ideal boundary at infinity $\mathcal{I}^+$ corresponds to “far-away” observers in the radiation zone of an isolated self-gravitating system such as a collapsing star. Thus, the black hole region $\mathcal{B}$ is the set of those spacetime events which cannot send signals to distant observers like us.
 > It is remarkable that the simplest non-trivial spacetimes $(\mathcal{M}, g)$ solving the Einstein equations in vacuum
 > 
-> $$ \mathrm{Ric}(g) = 0,$$
+> $$\mathrm{Ric}(g) = 0,$$
 > 
 > the celebrated _Schwarzschild_ and _Kerr_ solutions, indeed contain non-empty black ole regions $\mathcal{B} \neq \emptyset$.
 > 
