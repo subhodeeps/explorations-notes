@@ -1,3 +1,4 @@
+# Black holes in general relativity and beyond 
 > There is perhaps no other object in all of mathematical physics as fascinating as the black holes of Einstein’s general relativity.
 > 
 > The notion as such is simpler than the mystique surrounding it may suggest! Loosely speaking, the black hole region $\mathcal{B}$ of a Lorentzian 4-manifold $(\mathcal{M}, g)$ is the complement of the causal past of a certain distinguished ideal boundary at infinity, denoted $\mathcal{I}^+$ and known as _future null infinity_; in symbols
