@@ -69,12 +69,14 @@ module.exports = {
     {
       resolve: `gatsby-omni-font-loader`,
       options: {
+        /* Font loading mode */
+        mode: "async",
         enableListener: true,
         preconnect: [`https://fonts.googleapis.com`, `https://fonts.gstatic.com`],
         web: [
           {
             name: `Space Mono`,
-            file: `https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600;700&display=swap`,
+            file: `https://fonts.googleapis.com/css2?family=Space+Mono:wght@400;600;700&display=swap`,
           },
         ],
       },
